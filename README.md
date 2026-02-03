@@ -28,8 +28,8 @@ A simple and functional React application for managing user accounts with authen
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/react-account-app.git
-cd react-account-app
+git clone https://github.com/SlothyRock/Account-Management-Application.git
+cd Account-Management-Application
 ```
 
 2. Install dependencies
@@ -52,7 +52,7 @@ npm start
 
 ## Project Structure
 ```
-react-account-app/
+Account-Management-Application/
 ├── src/
 │   ├── pages/
 │   │   ├── Login.js          # Login page
@@ -80,3 +80,16 @@ react-account-app/
 - This is a demonstration project using localStorage
 - In production, use a backend API and database
 - Passwords should be hashed in production environments
+
+## Repository
+
+[https://github.com/SlothyRock/Account-Management-Application](https://github.com/SlothyRock/Account-Management-Application)
+
+## License
+
+This project was created for educational purposes.
+```
+
+**Also, for your GitHub repository description field, use:**
+```
+React Account Management App - User registration, login, and profile management system
